@@ -232,6 +232,18 @@ html, body {
     /* background-color:green; */
 }
 
+#login {
+    font-size:1em;
+}
+
+#enter {
+    top:2%;
+}
+
+#register {
+    bottom:2%;
+}
+
 #name_text {
     bottom:1%;
     left:1%;
