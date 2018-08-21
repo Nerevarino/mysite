@@ -1,0 +1,47 @@
+html, body {
+    box-sizing:border-box;
+    width:100%;
+    height:100%;
+    background-color:grey;
+}
+
+.dedic {
+    width:12%;
+    height:18%;
+    background-color:white;
+    position:relative;
+}
+
+.servparam {
+    color: blue;
+    font-size:1em;
+    text-align:center;
+    text-decoration:underline;
+}
+
+.space {
+    height:10%;
+}
+
+.memory {
+    color:black;
+    font-size:0.8em;
+    text-align:center;
+}
+
+.price {
+    text-align:center;
+}
+
+.price_head {
+    color:blue;
+    font-size:1.2em;
+    font-style:bold;
+    display:inline-block;
+}
+
+.price_head {
+    color:black;
+    font-size:1em;   
+    display:inline-block;
+}
