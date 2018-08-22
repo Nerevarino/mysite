@@ -6,42 +6,42 @@ html, body {
 }
 
 .dedic {
-    width:12%;
-    height:18%;
-    background-color:white;
+    flex:1;
+    width:4.5cm;
+    height:3.5cm;
+    padding:0.2cm;
+    background-color:#ffccf2;
     position:relative;
+    border-radius:0.2cm;
+    text-align:justify;
 }
 
-.servparam {
-    color: blue;
-    font-size:1em;
-    text-align:center;
+.dedic_title {
+    color: #0052cc;
+    font-weight:500;
     text-decoration:underline;
+    font-size:0.45cm;
+}
+
+.dedic_memory {    
+    color:black;
+    font-size:0.35cm;
 }
 
 .space {
-    height:10%;
-}
-
-.memory {
-    color:black;
-    font-size:0.8em;
-    text-align:center;
+    height:0.2cm;
 }
 
 .price {
-    text-align:center;
-}
-
-.price_head {
-    color:blue;
-    font-size:1.2em;
-    font-style:bold;
+    color: #0052cc;
+    font-weight:600;
+    font-size:0.45cm;
     display:inline-block;
 }
 
-.price_head {
+.period {
     color:black;
-    font-size:1em;   
+    font-size:0.35cm;
     display:inline-block;
 }
+
