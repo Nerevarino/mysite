@@ -16,7 +16,7 @@ html, body {
 /*     background-color:red;     */
 /* } */
 
-.dedicated {
+.dedic_server {
     width:18em;
     height:6em;
     margin:auto;
@@ -26,46 +26,46 @@ html, body {
     background-color:grey;
 }
 
-.logo {
+.dedic_logo {
     flex:1;
     border-radius:0.5em;
     text-align:justify;
 }
 
-.info {
+.dedic_info {
     flex:2;
     border-radius:0.5em;
     padding:0.2em;
 }
 
-.processor {
+.dedic_processor {
     font-size:1em;
     line-height:1em;
     text-decoration:underline;
     color:white;
 }
 
-.space {
+.dedic_space {
     line-height:0.5em;
     visibility:hidden;
 }
 
-.memory {
+.dedic_memory {
     font-size:0.72em;
     line-height:1em;
     color: #4d2600;
 }
 
-.price {
+.dedic_price {
     color:white;
 }
 
-.pvalue {
+.dedic_pvalue {
     display:inline-block;
     font-weight:bold;
     color: #99ff66;
 }
 
-.pperiod {
+.dedic_pperiod {
     display:inline-block;
 }
