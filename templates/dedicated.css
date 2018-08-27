@@ -29,11 +29,43 @@ html, body {
 .logo {
     flex:1;
     border-radius:0.5em;
-    /* background-color:red; */
+    text-align:justify;
 }
 
 .info {
     flex:2;
     border-radius:0.5em;
-    background-color:green;
+    padding:0.2em;
+}
+
+.processor {
+    font-size:1em;
+    line-height:1em;
+    text-decoration:underline;
+    color:white;
+}
+
+.space {
+    line-height:0.5em;
+    visibility:hidden;
+}
+
+.memory {
+    font-size:0.72em;
+    line-height:1em;
+    color: #4d2600;
+}
+
+.price {
+    color:white;
+}
+
+.pvalue {
+    display:inline-block;
+    font-weight:bold;
+    color: #99ff66;
+}
+
+.pperiod {
+    display:inline-block;
 }
